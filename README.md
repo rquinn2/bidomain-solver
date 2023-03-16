@@ -9,12 +9,10 @@ with the so-called [Bidomain Problem](https://en.wikipedia.org/wiki/Bidomain_mod
 
 The full report detailing this work and the results can be found in report/main.pdf.
 
-# References
-
-# Solution Approach
-
 # Results 
-TODO: Import results from img/  i.e.
+
+Discussed in full in the report (along with issues encountered).
+The scripts included can generate both still and animated results in the form seen below.
 ![alt text](./movies//1D_solution.gif)
 
 
